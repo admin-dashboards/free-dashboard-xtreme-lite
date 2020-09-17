@@ -6,7 +6,7 @@ You can now create a fantastic user interface with our top-notch Bootstrap layou
 
 <br />
 
-## Xtreme Bootstrap Admin Lite - Links
+## Starter Links
 
 - [Xtreme Bootstrap Admin Lite](https://www.wrappixel.com/templates/xtreme-admin-lite/?ref=157) - product page
 - [Xtreme Bootstrap Admin PRO](https://www.wrappixel.com/templates/xtremeadmin/?ref=157) - PREMIUM version
@@ -17,7 +17,7 @@ You can now create a fantastic user interface with our top-notch Bootstrap layou
 
 <br />
 
-## Xtreme Bootstrap Admin Lite - Template Screens
+## Starter Screens
 
 > Main Screen
 
